@@ -1,2 +1,6 @@
 line 1 edit from testBranch
+line 1 edit in main branch
 line 2
+line 3 from branch main
+line 4 from branch main
+line 5 from branch main
